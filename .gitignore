@@ -1,7 +1,7 @@
 # Ignore Python virtual environments
 venv/
 mrp/
-mrp/
+
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
@@ -27,3 +27,4 @@ outputs/
 *.tmp
 *.sums
 *.tcia
+*.nrrd
