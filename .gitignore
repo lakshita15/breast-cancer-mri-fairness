@@ -1,0 +1,29 @@
+# Ignore Python virtual environments
+venv/
+mrp/
+mrp/
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+
+# Ignore processed data
+Data/Processed/
+data/processed/
+
+# Ignore raw data (optional if you don’t want to commit datasets)
+Data/raw/
+data/raw/
+
+# Ignore outputs like plots and logs
+Outputs/
+outputs/
+*.log
+*.csv
+
+# Ignore zip or temporary files
+*.zip
+*.tmp
+*.sums
+*.tcia
