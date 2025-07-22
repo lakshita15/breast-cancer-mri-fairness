@@ -4,7 +4,8 @@ from src.merge_data import merge_clinical_features, add_density_data
 # Load files
 clinical = load_clinical_data("data/raw/Clinical_and_Other_Features.xlsx")
 features = load_radiomic_features("data/raw/Imaging_Features.xlsx")
-density = load_density_data("data/raw/Breast_Radiologist_Density_Assessments.xlsx")
+density = load_density_data(
+    "data/raw/Breast_Radiologist_Density_Assessments.xlsx")
 
 # Merge them
 merged = merge_clinical_features(clinical, features)

@@ -9,4 +9,3 @@ torch
 torchvision
 pydicom
 shap
-medfair

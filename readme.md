@@ -52,7 +52,7 @@ This project explores fairness in breast cancer classification using MRI and cli
 ## 📂 Output
 
 - `merged_data.csv`: Cleaned dataset combining clinical and imaging data
-- Visual outputs in `results/`:
+- Visual outputs in `breast-cancer-mri-fairness/results_lgbm_tuned/`:
   - Boxplots
   - Heatmaps
   - Tumor volume analysis
