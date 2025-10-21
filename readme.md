@@ -1,8 +1,6 @@
-Sure! Here’s the **raw markdown version** of your complete and polished `README.md` — ready to copy and paste directly into your repo:
 
 ---
 
-```markdown
 # 🩺 Fairness Evaluation in Breast Cancer Classification Using MRI
 
 This project investigates **fairness and bias** in predicting breast cancer treatment response using **MRI imaging features** and **clinical data**. The focus is on understanding whether model performance varies across patient subgroups — such as **age**, **breast density**, or **histological subtype** — and developing strategies to mitigate such disparities.
